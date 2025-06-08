@@ -9,8 +9,8 @@
 | 항목     | 내용                                                       |
 | ------ | -------------------------------------------------------- |
 | 이름     | 김연주 (Yeonju Kim)                                         |
-| 학력     | 경북대학교 통계학과 석사 졸업 (2023)                                  |
-| 관심 분야  | AI 기반 금융 분석, 추천 시스템, ML 서빙, ESG/환경 데이터 분석, LLM 활용 서비스 개발 |
+| 학력     | 경북대학교 통계학과 석사 졸업 (2025)                                  |
+| 관심 분야  | AI 기반 금융 분석, 사용자 기반 추천 시스템, ML, ESG/환경 데이터 분석, LLM 활용 서비스 개발 |
 | GitHub | [github.com/DaramG-star](https://github.com/DaramG-star) |
 | Email  | [sukrladuswn@naver.com](mailto:sukrladuswn@naver.com)    |
 
