@@ -55,7 +55,7 @@
 
 **기간**: 2025.05.17 \~ 2025.05.27
 **GitHub**: [SSAFY\_1st\_PJT](https://github.com/DaramG-star/SSAFY_1st_PJT)
-**역할**: 프론트엔드/AI 시각화/UX 설계 총괄
+**역할**: 프론트엔드/AI 시각화/백엔드/UX 설계 총괄
 **성과**: 최우수상 수상, SPA 설계 및 금융 API+GPT 통합 구현
 
 #### 📌 주요 기여
@@ -74,8 +74,9 @@
 
 ### 2. `POTHOLE DETECTION CHALLENGE` - 도로 파손 탐지 모델 개발
 
-**성과**: SSAFY AI 챌린지 3등 수상
-**역할**: 전체 모델 파이프라인 설계 및 구현 (데이터\~추론까지)
+**성과**: SSAFY AI 챌린지 전국 3등 수상
+**GitHub**: [SSAFYAICHALLENGE](https://github.com/DaramG-star/POTHOLE_DETECTION_CHALLENGE)
+**역할**: 전체 모델 파이프라인 설계 및 단독 구현 (데이터\~추론까지)
 
 #### 📌 주요 기여
 
